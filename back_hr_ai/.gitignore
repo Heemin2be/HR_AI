@@ -1,0 +1,16 @@
+# Environments
+.env
+.env*.local
+.env.*.local
+
+# Virtual Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
